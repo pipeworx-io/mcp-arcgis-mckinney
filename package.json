@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-arcgis-mckinney",
+  "version": "0.1.0",
+  "description": "City of McKinney GIS — McKinney, Texas open geospatial data (ArcGIS).",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "arcgis-mckinney"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-arcgis-mckinney"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}

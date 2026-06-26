@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/arcgis-mckinney",
+  "title": "Arcgis Mckinney",
+  "description": "City of McKinney GIS — McKinney, Texas open geospatial data (ArcGIS).",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/arcgis-mckinney",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-arcgis-mckinney",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/arcgis-mckinney/mcp"
+    }
+  ]
+}
