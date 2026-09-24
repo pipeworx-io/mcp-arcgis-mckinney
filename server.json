@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/arcgis-mckinney",
   "title": "Arcgis Mckinney",
   "description": "City of McKinney GIS — McKinney, Texas open geospatial data (ArcGIS).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/arcgis-mckinney",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-arcgis-mckinney",
