@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-mckinney",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of McKinney GIS — McKinney, Texas open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d9cea7ec106a542a4b373153de3c8befeeac50fe088d789022e4ea901da31dac",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-c98dc56685a1230d5b3de36899c47952a5488dd68c45ccce88fc38303865acc3",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
